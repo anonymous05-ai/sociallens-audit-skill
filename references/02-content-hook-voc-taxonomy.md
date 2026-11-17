@@ -1,42 +1,35 @@
-# Thang Điểm Brand Health (100 Điểm) & Chuẩn KPI Ngành
+# Ma Trận Trụ Cột Nội Dung, Phễu & Voice-of-Customer (VoC)
 
-## 1. Công thức Tính Chỉ số Định lượng Cốt lõi
+## 1. Phân loại 6 Trụ cột Nội dung (Content Pillars) & Tầng Phễu
 
-- **Standard Engagement Rate (ER):**
-  `ER (%) = ((Likes + Comments + Shares + Saves) / Followers) × 100`
-- **Weighted Engagement Rate (wER — Chỉ số trọng tâm của SocialLens):**
-  `wER (%) = ((Likes × 1 + Comments × 3 + Shares × 5 + Saves × 5) / Followers) × 100`
-  *(Lý do: Thuật toán hiện đại ưu tiên hành động lưu bài, chia sẻ và thảo luận sâu gấp 3–5 lần nút Like thụ động).*
-- **Viral Multiplier (Hệ số bùng nổ):**
-  `Viral Multiplier = ER của bài viết / Median ER của toàn kênh`
-  *(Bài viết có hệ số `>= 2.5x` được xếp vào nhóm **Viral Outlier** cần mổ xẻ cấu trúc).*
+1. **Educational / How-To (`TOFU / MOFU`):** Hướng dẫn sử dụng, mẹo chuyên ngành, giải mã sai lầm phổ biến. *(Chỉ số đo: Saves & Shares).*
+2. **Entertaining / Trend-Jacking (`TOFU`):** Bắt trend âm thanh/meme, tình huống hài hước gần gũi ngành hàng. *(Chỉ số đo: Reach & Views).*
+3. **Brand Story & Behind-the-Scenes (`MOFU`):** Câu chuyện nhà sáng lập, quy trình sản xuất, giá trị cốt lõi, văn hóa đội ngũ. *(Chỉ số đo: Comments & Brand Affinity).*
+4. **Social Proof & UGC (`MOFU / BOFU`):** Review thực tế từ khách hàng, case study trước/sau, phản hồi từ KOC/KOL. *(Chỉ số đo: Saves & Profile Visits).*
+5. **Product Showcase (`MOFU / BOFU`):** Trình diễn tính năng, đập hộp (unboxing), so sánh công dụng trực quan. *(Chỉ số đo: Link Clicks & DMs).*
+6. **Promotional / Direct Offer (`BOFU`):** Khuyến mãi, flash sale, ra mắt bộ sưu tập mới, kêu gọi đặt hàng trực tiếp. *(Chỉ số đo: Conversions / Comment từ khóa).*
 
 ---
 
-## 2. Thang Chấm Điểm Brand Social Health (Tổng 100 Điểm)
+## 2. Thư viện 10 Công thức Hook Viral (Dùng để gắn nhãn & viết lại Hook)
 
-| Trụ cột | Điểm tối đa | Tiêu chí chấm điểm chi tiết |
-| :--- | :---: | :--- |
-| **1. Reach & Growth Velocity** | **20đ** | Tần suất đăng đều đặn (3–7 bài/tuần/kênh chính), tỷ lệ lượt xem video trên tổng follower (`View-to-Follower > 30%`), độ phủ đa nền tảng hợp lý. |
-| **2. Engagement Quality & Virality** | **25đ** | Chỉ số `wER` cao hơn trung bình ngành, tỷ lệ `Comments + Saves + Shares` chiếm > 20% tổng tương tác, xuất hiện ít nhất 2 bài Viral Outlier/tháng. |
-| **3. Content Strategy & Funnel** | **25đ** | Cân bằng phễu **TOFU (50%) – MOFU (30%) – BOFU (20%)**, có ít nhất 2 chuỗi nội dung định kỳ (Signature Series), không lạm dụng bài bán hàng khô cứng. |
-| **4. Brand Consistency & Craft** | **15đ** | Bio chuẩn chuyển đổi, nhận diện thị giác (màu sắc, font, thumbnail) đồng nhất, Hook 3 giây đầu sắc bén, copywriting đúng giọng văn thương hiệu. |
-| **5. Community & Conversion** | **15đ** | Tỷ lệ bình luận hỏi mua/tích cực > 70%, tốc độ phản hồi comment nhanh, có cơ chế dẫn phễu mượt mà (Comment-to-DM, Link-in-bio, Lead magnet). |
-
-### Quy đổi Xếp hạng & Phân vị
-- **90 – 100 điểm (Hạng S — Top 1% Ngành):** Cỗ máy tăng trưởng tự nhiên hoàn chỉnh, dẫn đầu thảo luận ngành.
-- **75 – 89 điểm (Hạng A — Top 10% Ngành):** Nền tảng nội dung vững chắc, chỉ cần tối ưu điểm chạm chuyển đổi BOFU.
-- **60 – 74 điểm (Hạng B — Top 30% Ngành):** Hoạt động đều nhưng nội dung còn an toàn, thiếu các định dạng bùng nổ (Viral Hooks).
-- **40 – 59 điểm (Hạng C — Trung bình thấp):** Lệch phễu (quá nhiều bài bán hàng hoặc đăng rời rạc), phụ thuộc ngân sách quảng cáo.
-- **Dưới 40 điểm (Hạng D — Báo động):** Kênh thiếu định vị, tương tác thấp hơn 0.3%, cần tái cấu trúc toàn diện.
+1. **Contrarian / Phản trực giác:** *"Đừng làm [X] nữa nếu bạn muốn đạt [Y]..."*
+2. **Pain-Point Callout / Chạm nỗi đau:** *"Nếu bạn đang gặp tình trạng [Nỗi đau cụ thể], đây là lý do..."*
+3. **Curiosity Gap / Khoảng trống tò mò:** *"Thứ giúp chúng tôi tăng gấp 3 [Kết quả] mà không tốn một đồng quảng cáo..."*
+4. **Numbered Listicle / Danh sách định lượng:** *"5 dấu hiệu cho thấy bạn đang chọn sai [Sản phẩm/Giải pháp]..."*
+5. **Before - After Transformation / Biến đổi:** *"Từ [Trạng thái tệ] sang [Trạng thái mơ ước] chỉ sau [Thời gian]..."*
+6. **Behind-the-Curtain / Tiết lộ hậu trường:** *"Sự thật ít ai kể về cách một [Sản phẩm] được tạo ra..."*
+7. **Comparison / Đối đầu trực diện:** *"[Giải pháp A] vs [Giải pháp B]: Đâu mới là lựa chọn đáng tiền?"*
+8. **Target Audience Filter / Gọi tên tệp khách:** *"Dành riêng cho những ai [Đặc điểm tệp khách] nhưng quá bận..."*
+9. **Social Proof Lead / Mở đầu bằng bằng chứng:** *"Tại sao hơn 10.000 khách hàng lại chuyển sang dùng [Thương hiệu]?"*
+10. **Mistake Warning / Cảnh báo sai lầm:** *"90% người mới đều mắc sai lầm này khi sử dụng [Sản phẩm]..."*
 
 ---
 
-## 3. Bảng Chuẩn ER Trung bình Theo Nền tảng & Ngành (Tham chiếu)
+## 3. Khung Khai Thác Tiếng Nói Khách Hàng (VoC Mining)
 
-| Ngành hàng | Instagram (ER) | TikTok (ER) | LinkedIn (ER) | Facebook (ER) |
-| :--- | :---: | :---: | :---: | :---: |
-| **F&B / Đồ uống / Lifestyle** | 1.8% – 3.5% | 4.5% – 8.0% | 1.5% – 2.5% | 0.8% – 1.8% |
-| **Thời trang / Mỹ phẩm / D2C** | 1.5% – 3.0% | 3.8% – 7.0% | 1.2% – 2.0% | 0.6% – 1.5% |
-| **Công nghệ / SaaS / B2B** | 0.8% – 1.6% | 2.5% – 4.5% | 2.5% – 5.0% | 0.4% – 1.0% |
-| **Giáo dục / Tài chính / Chuyên gia** | 2.0% – 4.0% | 4.0% – 7.5% | 3.0% – 6.0% | 1.0% – 2.2% |
+Khi đọc phần bình luận hoặc đánh giá công khai của thương hiệu, hãy bóc tách thành 4 nhóm tín hiệu:
+- **Buying Intent Signals (Tín hiệu mua hàng):** Hỏi giá, hỏi địa chỉ mua, hỏi size/màu, tag bạn bè rủ mua chung.
+- **Objections & Friction (Rào cản chốt đơn):** Chê giá cao, lo ngại hàng giả/chất lượng, phàn nàn phí ship hoặc chậm trả lời tin nhắn.
+- **Delight Triggers (Điểm chạm khen ngợi):** Chi tiết cụ thể khách hàng khen ngợi nhiều nhất (đóng gói đẹp, mùi hương, độ bền, thái độ nhân viên).
+- **Unmet Needs (Nhu cầu chưa được đáp ứng):** Những câu hỏi *"Shop có loại X không?"*, *"Bao giờ có chi nhánh ở Y?"* — đây là mỏ vàng để đề xuất sản phẩm/nội dung mới.
