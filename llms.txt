@@ -1,0 +1,15 @@
+# SocialLens Marketing Audit Skill
+> Bộ công cụ kiểm toán thương hiệu, phân tích đối thủ và xuất báo cáo Social Media Intelligence tương tác.
+
+## Skill Entrypoint
+- [SKILL.md](SKILL.md): Quy trình 9 bước kiểm toán thương hiệu chuẩn SocialLens.
+
+## Reference Frameworks
+- [references/01-scoring-and-benchmarks.md](references/01-scoring-and-benchmarks.md): Thang điểm Brand Health 100 điểm, công thức Weighted ER và KPI chuẩn ngành.
+- [references/02-content-hook-voc-taxonomy.md](references/02-content-hook-voc-taxonomy.md): Phân loại 6 Content Pillars, phễu TOFU/MOFU/BOFU, 10 công thức Hook và khai thác VoC.
+- [references/03-competitor-and-growth-loops.md](references/03-competitor-and-growth-loops.md): Ma trận so sánh đối thủ, Share of Voice và phát hiện Growth Loops.
+
+## Automation Scripts & Templates
+- [scripts/analyze_social_data.py](scripts/analyze_social_data.py): Phân tích định lượng file CSV/JSON bài đăng mạng xã hội.
+- [scripts/render_html_report.py](scripts/render_html_report.py): Xuất báo cáo Web HTML tương tác giống sociallens.co.in/reports.
+- [assets/executive-report-template.md](assets/executive-report-template.md): Mẫu báo cáo chiến lược 9 phần + Lịch nội dung 14 ngày.
